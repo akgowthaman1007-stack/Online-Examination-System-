@@ -1,7 +1,7 @@
 # Online-Examination-System
-# Reg No:
-# Name:
-# Date:
+# Reg No:212225240043
+# Name:GOWTHAMAN A.K
+# DATE: 05/09/2026
 
 
 # AIM:
@@ -38,6 +38,7 @@ Specifying the context and requirements of a system
 → Modeling the basic flow of events in a sina use case.
 
 
+<img width="833" height="757" alt="Screenshot 2026-09-04 140729" src="https://github.com/user-attachments/assets/c7af8516-2a51-4205-a644-d2bd6a8982ec" />
 
 
 
@@ -57,6 +58,7 @@ Visually express any specific needs of a system and disseminate that information
 
 Create detailed charts that…
 
+<img width="821" height="783" alt="Screenshot 2026-09-04 140747" src="https://github.com/user-attachments/assets/ddb8fbca-6b9d-452f-87ff-133ce47b4eb1" />
 
 
 # COMMUNICTION DIAGRAM:
@@ -66,6 +68,7 @@ A communication diagram offers the same information as a sequence diagram, but w
 Communication diagrams offer benefits similar to sequence diagrams, but they will offer a better understanding of how components communicate and interact with each other rather than solely emphasizing the sequence of events. They can be a useful reference for businesses, organizations, and engineers who need to visualize and understand the physical communications within a program. Try drawing a sequence diagram to:
 
 
+<img width="815" height="702" alt="Screenshot 2026-09-04 140809" src="https://github.com/user-attachments/assets/8dffe009-57c3-40c5-8573-e363652b747e" />
 
 
 # PACKAGE DIAGRAM:
@@ -79,6 +82,7 @@ A well-designed package diagram provides numerous benefits to those looking to c
 
 
 
+<img width="805" height="443" alt="Screenshot 2026-09-04 140836" src="https://github.com/user-attachments/assets/171167cc-2939-4fe2-b1ce-ca08703c07df" />
 
 
 
@@ -95,6 +99,7 @@ Demonstrate the logic of an algorithm.
 
 Describe the steps performed in a UML use case.
 
+<img width="650" height="764" alt="Screenshot 2026-09-04 140903" src="https://github.com/user-attachments/assets/317a6771-ea67-473f-99ba-bdd3543512b6" />
 
 
 
@@ -117,6 +122,7 @@ Model the logic of a sophisticated procedure, function, or operation. See how ob
 Plan and understand the detailed functionality of an existing or future scenario.
 
 
+<img width="754" height="750" alt="Screenshot 2026-09-04 140921" src="https://github.com/user-attachments/assets/25e4f988-cb79-43aa-bd40-4fe9603b6c04" />
 
 
 
